@@ -1,0 +1,39 @@
+[[pages]]
+path = "streamlit_app.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "back.py"
+name = "Back"
+icon = "🔙"
+
+[[pages]]
+path = "settings.py"
+name = "Settings"
+icon = "⚙️"
+
+[[pages]]
+path = "favorites.py"
+name = "Favorites"
+icon = "⭐"
+
+[[pages]]
+path = "page1.py"
+name = "User settings"
+icon = "🕵️"
+
+[[pages]]
+path = "page2.py"
+name = "Billing settings"
+icon = "🕵️"
+
+[[pages]]
+path = "page3.py"
+name = "Cool page 1"
+icon = "😎"
+
+[[pages]]
+path = "page4.py"
+name = "Cool page 2"
+icon = "😎"
